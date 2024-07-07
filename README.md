@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @annadv15
-- 👀 I’m interested in Technology and Travel
+- 👋 Hi, I’m Anna.
+- 👀 I’m interested in Data, Technology, and Travel
 - 🌱 I’m currently learning Data Analytics and Data Engineering
 - 💞️ I’m looking to collaborate on Dashboards, SQL, Python.
 - 📫 How to reach me ...
